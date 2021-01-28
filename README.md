@@ -2,19 +2,19 @@
 
 Identify cats and dogs
 
-## ScreenShots
+# ScreenShots
 
 
-# splash screen
+## splash screen
 ![](screenshots/splash%20screen.png)
 
 
-# home screen
+## home screen
 ![](screenshots/home.png)
 
-# cat identified
+## cat identified
 ![](screenshots/cat.png)
 
-# dog identified
+## dog identified
 ![](screenshots/dog.png)
 
