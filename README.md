@@ -1,4 +1,4 @@
-# cats_and_dogs
+# Cats & Dogs
 
 Identify cats and dogs
 
