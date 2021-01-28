@@ -1,4 +1,4 @@
-# Cats & Dogs
+# Cats & Dogs Classifier
 
 Identify cats and dogs
 
